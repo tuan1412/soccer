@@ -6,7 +6,7 @@ console.log(district);
 chageTitle = document.querySelector("#title");
 chageTitle.innerHTML = `Sân Bóng khu vực ${district}`
 
-let stadiumApi = '/json/db.json';
+let stadiumApi = '/db/db.json';
 
 // Khởi động hàm
 
