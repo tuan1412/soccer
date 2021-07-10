@@ -1,0 +1,64 @@
+{
+    "stadium": [
+      {
+        "img":"/img/Hinh-anh-–-2020-San-Bong-Cu-Chi-Sau-01-Nam-Khai-Thac-2.jpg",
+        "id": 1,
+        "name": "Sân Viettel",
+        "price": 120000,
+        "local": "Quận Đông Anh"
+        
+      },
+      {
+        "img":"/img/san-bong-dh-su-pham-hanoi-img2.jpg",
+        "id": 2,
+        "name": "Sân Đông Ngạc",
+        "price": 200000,
+        "local":"Quận Bắc Từ Liêm"
+      },
+      {
+        "img":"/img/san-bong-dh-su-pham-hanoi-img2.jpg",
+        "id": 3,
+        "name": "Sân Đông Anh",
+        "price": 150000,
+        "local":"Quận Đông Anh"
+      },
+      {
+        "img":"/img/san-bong-dh-su-pham-hanoi-img2.jpg",
+        "id": 4,
+        "name": "Sân Hà Đông",
+        "price": 170000,
+        "local":"Quận Hà Đông"
+      },
+      {
+        "img":"/img/san-bong-dh-su-pham-hanoi-img2.jpg",
+        "id": 5,
+        "name": "Sân Hoàn Kiếm",
+        "price": 90000,
+        "local":"Quận Hoàn Kiếm"
+      }
+    ],
+    
+    "customer": [
+      {
+        "id": 1,
+        "Name": "Dũng",
+        "NameLogin": "hai56dung",
+        "password":"123456",
+        "email": "haidung0902@gmail.com"
+      },
+      {
+        "id": 2,
+        "Name": "Hùng",
+        "NameLogin": "hung123",
+        "password":"1234567",
+        "email": "haidung0902@gmail.com"
+      },
+      {
+        "id": 3,
+        "Name": "Quân",
+        "NameLogin": "quan456",
+        "password":"23456",
+        "email": "haidung0902@gmail.com"
+      }
+    ]
+}
